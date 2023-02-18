@@ -17,7 +17,7 @@ HTTP: "Es el nombre de un protocolo el cual nos permite realizar una petición d
 TCP: TCP (Protocolo de Control de Transmisión, por sus siglas en inglés Transmission Control Protocol) es protocolo de red importante que permite que dos anfitriones (hosts) se conecten e intercambien flujos de datos [2]
 DNS: corresponde a las siglas en inglés de "Domain Name System", es decir, "Sistema de nombres de dominio". Este sistema es básicamente la agenda telefónica de la Web que organiza e identifica dominios.
 
-La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor.
+La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor, el cliente realiza la solicitud al servidor, esto mediante escribir la url y buscar, esta petición es enviada através de toda la red diseñada, y llega al servidor, el cual al poseer las respectivas características de la URL buscada, devuelve una respuesta, en esta caso es el documento HTML que se visualiza [4]
 
 Elementos utilizados:
 WRT300N.
@@ -39,5 +39,6 @@ REFERENCIAS:
 [1] Fragmento todo de: "https://developer.mozilla.org/es/docs/Web/HTTP/Overview"
 [2] Fragmento todo de: "https://developer.mozilla.org/es/docs/Glossary/TCP"
 [3] Fragmento todo de: "https://support.google.com/a/answer/48090?hl=es-419#:~:text=DNS%20corresponde%20a%20las%20siglas,que%20organiza%20e%20identifica%20dominios."
+[4] https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
 
 
