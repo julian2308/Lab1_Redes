@@ -19,15 +19,15 @@ Se plantean unos nodos terminales que se conectarán un Router Wireless, este ro
 La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor, el cliente realiza la solicitud al servidor, esto mediante escribir la url y buscar, esta petición es enviada através de toda la red diseñada, y llega al servidor, el cual al poseer las respectivas características de la URL buscada, devuelve una respuesta, en esta caso es el documento HTML que se visualiza [6].
 
 ### ELEMENTOS UTILIZADOS:
-WRT300N.
-PC.
-Laptop.
-Smart Phone.
-Server.
-PT-Cloud.
-Cable Modem.
-Cable coaxial.
-Cable de cobre.
+* WRT300N.
+* PC.
+* Laptop.
+* Smart Phone.
+* Server.
+* PT-Cloud.
+* Cable Modem.
+* Cable coaxial.
+* Cable de cobre.
 
 #### Diseño lógico
 [![esto.png](https://i.postimg.cc/1td033Z2/esto.png)](https://postimg.cc/gXvLMdjH)
