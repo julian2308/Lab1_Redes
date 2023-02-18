@@ -18,7 +18,7 @@ Se plantean unos nodos terminales que se conectarán un Router Wireless, este ro
 
 La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor, el cliente realiza la solicitud al servidor, esto mediante escribir la url y buscar, esta petición es enviada através de toda la red diseñada, y llega al servidor, el cual al poseer las respectivas características de la URL buscada, devuelve una respuesta, en esta caso es el documento HTML que se visualiza [6].
 
-### ELEMENTOS UTILIZADOS:
+### ELEMENTOS UTILIZADOS.
 * WRT300N.
 * PC.
 * Laptop.
@@ -29,19 +29,19 @@ La solución implementada funciona bajo la arquitectura cliente-servidor, siendo
 * Cable coaxial.
 * Cable de cobre.
 
-#### Diseño lógico
+#### Diseño lógico.
 [![esto.png](https://i.postimg.cc/1td033Z2/esto.png)](https://postimg.cc/gXvLMdjH)
 
-#### Diseño físico
+#### Diseño físico.
 [![Disenio.png](https://i.postimg.cc/KYNJxbjh/Disenio.png)](https://postimg.cc/hJX91HV2)
 
 ### RETOS.
 No teníamos mucha idea de por dónde comenzar, incluso en un principio pensamos que era replicar lo que vimos en una de las actividades del curso de introducción a Cisco Packet Tracer, fue una gran decepción ver que al introducir la URL no nos redirigía al sitio web. Al principio fue un poco complejo dividir cómo íbamos a realizar la practica, pero en cuanto nos sentamos a hablarlo salió de una forma bastante limpia. Queremos recalcar como mayor desafio de entendimiento la parte de DHCP, fue algo que costó demasiado, pero que logramos reforzar de una gran forma.
 
-### CONCLUSIÓN:
+### CONCLUSIÓN.
 Es un laboratorio que realmente nos da una introducción a las redes, y lo complejas que pueden llegar a ser, aclara muchas dudas y confusiones que son bastante comunes, como las diferencias entre el router, modem, tecnología wireless entre otras. También ayuda a evidenciar el complejo proceso por el cuál debe pasar cualquier tipo de mensaje. De la misma forma, fue bastante satisfactorio cómo poco a poco estas dudas iban siendo un poco más claras, realmente al momento de poner en práctica los conceptos teóricos ayuda mucho la compresión, entendimiento y apropiación de estos, y áun más trabajándolo en equipo, lo cuál facilitó muchísimas tareas. Queremos recalcar que la definición de algunos conceptos, por ejemplo los protocolos, decimos tomarlos de estas páginas en específico, debido a que es documentación de desarrollo oficial.
 
-### REFERENCIAS:
+### REFERENCIAS.
 * [1] Fragmento todo de: "https://developer.mozilla.org/es/docs/Web/HTTP/Overview"
 * [2] Fragmento todo de: "https://developer.mozilla.org/es/docs/Glossary/TCP"
 * [3] Fragmento todo de: "https://support.google.com/a/answer/48090?hl=es-419#:~:text=DNS%20corresponde%20a%20las%20siglas,que%20organiza%20e%20identifica%20dominios."
