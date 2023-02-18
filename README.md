@@ -27,10 +27,10 @@ Cable Modem.
 Cable coaxial.
 Cable de cobre.
 
-Diseño lógico
+#### Diseño lógico
 [![esto.png](https://i.postimg.cc/1td033Z2/esto.png)](https://postimg.cc/gXvLMdjH)
 
-Diseño físico
+#### Diseño físico
 [![Disenio.png](https://i.postimg.cc/KYNJxbjh/Disenio.png)](https://postimg.cc/hJX91HV2)
 
 ### RETOS.
