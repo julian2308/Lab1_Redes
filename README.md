@@ -32,9 +32,9 @@ No teníamos mucha idea de por dónde comenzar, incluso en un principio pensamos
 Es un laboratorio que realmente nos da una introducción a las redes, y lo complejas que pueden llegar a ser, aclara muchas dudas y confusiones que son bastante comunes, como las diferencias entre el router, modem, tecnología wireless entre otras. También ayuda a evidenciar el complejo proceso por el cuál debe pasar cualquier tipo de mensaje. De la misma forma, fue bastante satisfactorio cómo poco a poco estas dudas iban siendo un poco más claras, realmente al momento de poner en práctica los conceptos teóricos ayuda mucho la compresión, entendimiento y apropiación de estos, y áun más trabajándolo en equipo, lo cuál facilitó muchísimas tareas. Queremos recalcar que la definición de algunos conceptos, por ejemplo los protocolos, decimos tomarlos de estas páginas en específico, debido a que es documentación de desarrollo oficial.
 
 ### REFERENCIAS:
-[1] Fragmento todo de: "https://developer.mozilla.org/es/docs/Web/HTTP/Overview"
-[2] Fragmento todo de: "https://developer.mozilla.org/es/docs/Glossary/TCP"
-[3] Fragmento todo de: "https://support.google.com/a/answer/48090?hl=es-419#:~:text=DNS%20corresponde%20a%20las%20siglas,que%20organiza%20e%20identifica%20dominios."
-[4] https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
+* [1] Fragmento todo de: "https://developer.mozilla.org/es/docs/Web/HTTP/Overview"
+* [2] Fragmento todo de: "https://developer.mozilla.org/es/docs/Glossary/TCP"
+* [3] Fragmento todo de: "https://support.google.com/a/answer/48090?hl=es-419#:~:text=DNS%20corresponde%20a%20las%20siglas,que%20organiza%20e%20identifica%20dominios."
+* [4] https://developer.mozilla.org/es/docs/Learn/Server-side/First_steps/Client-Server_overview
 
 
