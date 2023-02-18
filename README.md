@@ -14,9 +14,9 @@ HTTP: "Es el nombre de un protocolo el cual nos permite realizar una petición d
 TCP: TCP (Protocolo de Control de Transmisión, por sus siglas en inglés Transmission Control Protocol) es protocolo de red importante que permite que dos anfitriones (hosts) se conecten e intercambien flujos de datos [2]
 DNS: corresponde a las siglas en inglés de "Domain Name System", es decir, "Sistema de nombres de dominio". Este sistema es básicamente la agenda telefónica de la Web que organiza e identifica dominios.
 
-La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor, el cliente realiza la solicitud al servidor, esto mediante escribir la url y buscar, esta petición es enviada através de toda la red diseñada, y llega al servidor, el cual al poseer las respectivas características de la URL buscada, devuelve una respuesta, en esta caso es el documento HTML que se visualiza [4]
+La solución implementada funciona bajo la arquitectura cliente-servidor, siendo los dispositivos de la casa el cliente, y el servidor que contiene la página web el servidor, el cliente realiza la solicitud al servidor, esto mediante escribir la url y buscar, esta petición es enviada através de toda la red diseñada, y llega al servidor, el cual al poseer las respectivas características de la URL buscada, devuelve una respuesta, en esta caso es el documento HTML que se visualiza [4].
 
-### Elementos utilizados:
+### ELEMENTOS UTILIZADOS:
 WRT300N.
 PC.
 Laptop.
@@ -24,6 +24,14 @@ Smart Phone.
 Server.
 PT-Cloud.
 Cable Modem.
+Cable coaxial.
+Cable de cobre.
+
+Diseño lógico
+[![esto.png](https://i.postimg.cc/1td033Z2/esto.png)](https://postimg.cc/gXvLMdjH)
+
+Diseño físico
+[![Disenio.png](https://i.postimg.cc/KYNJxbjh/Disenio.png)](https://postimg.cc/hJX91HV2)
 
 ### RETOS.
 No teníamos mucha idea de por dónde comenzar, incluso en un principio pensamos que era replicar lo que vimos en una de las actividades del curso de introducción a Cisco Packet Tracer, fue una gran decepción ver que al introducir la URL no nos redirigía al sitio web. Al principio fue un poco complejo dividir cómo íbamos a realizar la practica, pero en cuanto nos sentamos a hablarlo salió de una forma bastante limpia. Queremos recalcar como mayor desafio de entendimiento la parte de DHCP, fue algo que costó demasiado, pero que logramos reforzar de una gran forma.
